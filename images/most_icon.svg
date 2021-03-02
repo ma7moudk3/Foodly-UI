@@ -1,0 +1,7 @@
+<svg id="most_icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Bg" width="40" height="40" rx="20" fill="#232323"/>
+  <g id="Popular_Icon" data-name="Popular Icon" transform="translate(8 8)">
+    <rect id="bound" width="24" height="24" fill="none"/>
+    <path id="Path_17" data-name="Path 17" d="M8,3.5s-.5,5-3,5.35C5,8.85,6.5,3,4.5,0A18.632,18.632,0,0,1,2.145,7.072C1.14,8.88,0,10.1,0,12.5c0,3.429,3.511,5.2,6.006,5.2S12,16.5,12,12.3C12,9.71,8,3.5,8,3.5Z" transform="translate(6 3.5)" fill="#fff"/>
+  </g>
+</svg>

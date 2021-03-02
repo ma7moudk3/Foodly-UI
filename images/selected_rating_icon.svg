@@ -1,0 +1,7 @@
+<svg id="selected_rating_icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Bg" width="40" height="40" rx="20" fill="#ffca40"/>
+  <g id="Rating_Icon" data-name="Rating Icon" transform="translate(8 8)">
+    <path id="Shape" d="M0,0H24V24H0Z" fill="none"/>
+    <path id="Star" d="M8.362,13.741,4.277,15.888a1,1,0,0,1-1.451-1.054l.78-4.548L.3,7.065A1,1,0,0,1,.856,5.359L5.423,4.7,7.465.558a1,1,0,0,1,1.793,0L11.3,4.7l4.566.664a1,1,0,0,1,.554,1.706l-3.3,3.221.78,4.548a1,1,0,0,1-1.451,1.054Z" transform="translate(3.638 4.259)"/>
+  </g>
+</svg>
