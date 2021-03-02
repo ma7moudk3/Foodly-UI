@@ -103,7 +103,7 @@ class _FilterScreenState extends State<FilterScreen> {
                               width: 130,
                             ),
                             Text(
-                              'SAR 14.75',
+                              '\$14',
                               style: TextStyle(
                                 fontSize: 16,
                                 color: const Color(0xffffffff),

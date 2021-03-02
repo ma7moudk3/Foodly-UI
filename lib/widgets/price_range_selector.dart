@@ -10,7 +10,7 @@ class PriceRangeSelector extends StatefulWidget {
 
 class _PriceRangeSelectorState extends State<PriceRangeSelector> {
   int selectedIndex = 0;
-  final List<String> categories = ['\$', '\$\$', '\$\$\$'];
+  final List<String> categories = ['100 SAR', '200 SAR', '300 SAR'];
   final List<String> categories2 = ['Burgers', 'America Food', 'Mexican'];
 
   @override
